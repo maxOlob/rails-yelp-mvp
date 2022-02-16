@@ -1,4 +1,6 @@
-	# Please do not make direct changes to this file!
+# frozen_string_literal: true
+
+# Please do not make direct changes to this file!
 # This generator is maintained by the community around simple_form-bootstrap:
 # https://github.com/heartcombo/simple_form-bootstrap
 # All future development, tests, and organization should happen there.
